@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div style={{ padding: '30px', fontFamily: 'sans-serif', maxWidth: '1000px', margin: '0 auto', textAlign: 'left' }}>
-      <h1 style={{ textAlign: 'center', marginBottom: '40px', fontSize: '2.5rem' }}>
+      <h1 style={{ textAlign: 'center', marginBottom: '40px', fontSize: '2.5rem', lineHeight: '1.4' }}>
         Практична робота 1: Теоретичні основи менеджменту в освіті. Основні поняття та теорії.
       </h1>
 
@@ -75,7 +75,7 @@ function App() {
       </section>
 
       <section style={{ marginBottom: '40px' }}>
-        <h3 style={{ borderBottom: '1px solid #ccc', paddingBottom: '10px', color: '#646cff' }}>
+        <h3 style={{ borderBottom: '1px solid #ccc', paddingBottom: '10px', color: '#000000' }}>
           Завдання 2. Аналіз структури управління Карпатського національного університету імені Василя Стефаника
         </h3>
         <p style={{ lineHeight: '1.6', marginBottom: '10px' }}>
@@ -93,7 +93,7 @@ function App() {
       </section>
 
       <section style={{ marginBottom: '40px' }}>
-        <h3 style={{ borderBottom: '1px solid #ccc', paddingBottom: '10px', color: '#646cff' }}>
+        <h3 style={{ borderBottom: '1px solid #ccc', paddingBottom: '10px', color: '#000000' }}>
           Завдання 3. Практична ситуація
         </h3>
         <p style={{ lineHeight: '1.6' }}><b>Функції менеджменту:</b> </p>
@@ -119,7 +119,7 @@ function App() {
       </section>
 
       <section style={{ marginBottom: '40px' }}>
-        <h3 style={{ borderBottom: '1px solid #ccc', paddingBottom: '10px', color: '#646cff' }}>
+        <h3 style={{ borderBottom: '1px solid #ccc', paddingBottom: '10px', color: '#000000' }}>
           Завдання 4. Контрольні запитання
         </h3>
         <ul style={{ lineHeight: '1.6', paddingLeft: '20px' }}>
